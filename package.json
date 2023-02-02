@@ -1,0 +1,20 @@
+{
+  "name": "comp2164",
+  "version": "1.0.0",
+  "description": "Seyedali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sad1843/comp2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sad1843/comp2156/issues"
+  },
+  "homepage": "https://github.com/sad1843/comp2156#readme"
+}
