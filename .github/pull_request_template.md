@@ -1,5 +1,5 @@
 ### Description
-Provide a maximum of 3 sentence description of what the implementation was
+Validate all requirements
 
 ### Screenshots [Optional]
 
